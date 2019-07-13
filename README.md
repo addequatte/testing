@@ -5,7 +5,7 @@
 
 https://github.com/addequatte/testing/blob/master/test.pdf - Техническое задание
 
-https://github.com/addequatte/testing/blob/master/dump.sql - Дамп базы данных
+>Дамп базы данных ./dump.sql
 
 >Тесты в каталоге ./tests
 
